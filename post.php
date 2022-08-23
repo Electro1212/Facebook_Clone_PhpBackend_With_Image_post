@@ -12,7 +12,7 @@ if (!isset($_SESSION['id'])) {
 
 <head>
     <meta charset="utf-8">
-    <title>Facebook Post Box Clone <?php echo $_SESSION['username'] ?></title>
+    <title>ElectroHub <?php echo $_SESSION['username'] ?></title>
     <link rel="stylesheet" href="style3.css">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <!-- FontAweome CDN Link for Icons -->
